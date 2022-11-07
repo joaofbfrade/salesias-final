@@ -1,0 +1,453 @@
+fileFormatVersion: 2
+guid: f0d5db130e3cf204f8e29c9842fe9cd5
+ModelImporter:
+  serializedVersion: 22103
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh10_Group11_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: f82c3511ce0b5ad4c94ed6e16b7938ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh11_Group12_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: f1d7c2e7f33b493408074f9d3a71668d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh12_Group13_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 22117903ad5d8304bbfc0717d5760af7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh13_Group14_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 714dd1e0f69dbc9499c9293eb8a8564b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh14_Group15_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: e15ac01461534f847a6f01f2c8601a3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh15_Group16_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: fc46439187c1e2443b4c594de8c6a0f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh16_Group17_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: e3734019c691d264096a33331a8dfe8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh17_Group18_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 3922fb19f3d03e24a87b15a7ed1d8a46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh18_Group19_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 7b12332023fae3c4092a649d8964c796, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh19_Group20_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 9598e146ec4622b4b9897345bd4b5a67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh1_Group2_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: c931a0c35e8c9eb439b06e055b127d46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh20_Group21_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 0bdeed349c999374eb0b56d511f98c4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh21_Group22_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 7d6f4cc2022ae064cb76cb6dd0301d6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh22_Group23_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 4726b9231cebd6e458be2f5c1489f74a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh23_Group24_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: d24f50a48722f8f48b79010933765aaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh24_Group25_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: e3428156bf6ac904881dd163fb3d0dab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh25_Group26_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 6e783d1302d74424d9884a3aaf7bf0ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh26_Group27_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 937bb3d9f9588884584aadaa7b6b4ed8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh27_Group28_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 7be32b0c4a9d4f64d9d886fee680f0e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh28_Group29_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: c44df05300f67e4428fd1f80b5ddb0af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh29_Group30_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: d7a04c6b97278f54fb3593fd75fdd95e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh2_Group3_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: fa2c3cfedeb0e4e4e819c2f9c0250722, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh30_Group31_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: da7608f56e03486408df98cf42a07646, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh31_Group32_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: fc597a48612dc894c9767e2d797e1551, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh32_Group33_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: b79f9579ebe04e641b998d5245381766, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh33_Group34_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 94de35249d1704948b72c68b3070b495, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh34_Group35_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 0bca2595a468803428df7003b238cd6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh35_Group36_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 48a8bb4a9fb63c844b8d5e22a37640ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh36_Group37_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: ebb870e7da640594b9b1b831efc77288, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh37_Group38_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 5579227ae8ca8d24fa754ddccbba6006, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh38_Group39_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 4297953dcf26e4245880b84b6a2824c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh39_Group40_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: ca023e77efa2e594c8f0e48906ef2c4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh3_Group4_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: e724293060cb6534fbc67fa6967af408, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh40_Group41_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 21afb7674154c6c4d8bf52d2d6a3e7d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh41_Group42_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: f6a88c65c9bcd154780cca9a269620d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh42_Group43_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 914a50f35718f8244a05b6ef4b163ba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh43_Group44_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: df449808950f84c4999fea7462dc0d24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh44_Group45_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: db19de90fc64028439fbd993e571c4dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh45_Group46_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: f64565abf1cae614cac710255aab48e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh46_Group47_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: aef4b5e9bd118034aa58c935bf42e4c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh47_Group48_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: b6709c5b195a25b46832b0a1b9b244a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh48_Group49_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 91fccd07185fa2c498243b0abaf22a58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh49_Group50_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 477e239f64158aa4ead50bc547c1ecb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh4_Group5_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: b86601a121c01e345826a3266846a97c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh50_Group51_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 3d83cf93b16daf04db36f879a150a82c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh51_Group52_Group_11_1_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 5e57aabb63c7d7a42b2da462f9b14678, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh52_Group53_Group_11_1_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 0ce9a0bd36dd48541a3ae688d5cfdc28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh53_Group54_Group_11_1_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: ffa84cf737ee6db48a6cddc94abcd93c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh54_Group55_Group_11_2_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 9fb45cad222983747859eea08a8bde36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh55_Group56_Group_11_2_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 26e4112b481df1f4c9e0b117afc95337, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh56_Group57_Group_11_2_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 0c442ade9df4d1045b74eb2cc2483fca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh57_Group58_Group_11_3_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: b119b7951662c29499ec29751b5d16eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh58_Group59_Group_11_3_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 3fe1dd9e885905a4a8f915131f209bbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh59_Group60_Group_11_3_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 5186ea817c451904a8429219376b4def, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh5_Group6_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 443116a3655b997448027c1a7613dcfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh60_Group61_Group_11_4_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: d5f9a79ef99f10e4b9369f900ed3c460, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh61_Group62_Group_11_4_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: f4e5eeb7907eaae488b32e2a5323037a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh62_Group63_Group_11_4_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: e3bf67c2dc274df409d057d7171d9267, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh63_Group64_Group_8_1_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 661f55227349dce498e22f0d51d84452, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh64_Group_8_1_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 94895d6852d3d6f45ade9122237a1c85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh65_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: af5d3597376a3324c9900e2c58c8da09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh66_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 0c2f43d60d2d8ae408dcf991cb492cac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh67_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 525483fe4b626094ea146a551db9f898, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh68_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: e4e258832bfac664c9b4e755eed76028, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh69_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 0a5700848196a5c489c4d6811074d8da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh6_Group7_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 8bc7f603a626c4b46aa24aebb4ce1219, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh7_Group8_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: b9d49b7bba33da346abf3299efc745c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh8_Group9_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: ae4689e5908e4084cb1ce9553f967b8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh9_Group10_Group1_Museu_da_Eletricidade1_ModelMat
+    second: {fileID: 2100000, guid: 59b77875425821948a642ecc86ddc288, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
